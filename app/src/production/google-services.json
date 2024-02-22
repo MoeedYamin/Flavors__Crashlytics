@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894470570158",
+    "project_id": "task-5-production-d7a21",
+    "storage_bucket": "task-5-production-d7a21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894470570158:android:bcf5f59fc5e86400942d3f",
+        "android_client_info": {
+          "package_name": "com.example.task_5_flavors__crashlytics.production.production"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAANfQImqALvMMA7DzHnw3hpDozS84XQn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

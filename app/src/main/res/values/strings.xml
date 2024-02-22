@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task_5_Flavors_&amp;_Crashlytics</string>
+    <string name="crash_button">Crash App</string>
+    <string name="crash_test">Crash Test</string>
+    <string name="remote_config_value">Remote config value</string>
+    <string name="failed">Failed</string>
+</resources>

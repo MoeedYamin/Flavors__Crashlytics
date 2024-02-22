@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6674079879",
+    "project_id": "task-5-staging-3bc4a",
+    "storage_bucket": "task-5-staging-3bc4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6674079879:android:dbd900e8974c0a3d639822",
+        "android_client_info": {
+          "package_name": "com.example.task_5_flavors__crashlytics.staging.staging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJOkoCo1YqoerRuZUjYBFmedBp_qksaIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

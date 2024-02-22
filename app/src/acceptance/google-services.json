@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110318854908",
+    "project_id": "task-5-acceptance-b7d74",
+    "storage_bucket": "task-5-acceptance-b7d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110318854908:android:2bd1887a396799d1756d79",
+        "android_client_info": {
+          "package_name": "com.example.task_5_flavors__crashlytics.acceptance.acceptance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO-D6XwzrfxANXmen8jl37HhITkDPNk9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
